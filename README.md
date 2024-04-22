@@ -9,8 +9,9 @@
 <h2>RESOURCE - Recursos são elementos que podem ser manipulados através de um ID.</h2>
 <blockquote>A nomeação de um recurso é sempre um SUBSTANTIVO - Exemplo: Usuário.</p></blockquote>
 <h2>URI - O que é?</h2>
-<blockquote><p>Uniform Resource Identifier - Identificador uniforme de recursos é uma cadeia de caracteres usada para identificar ou denominar um recurso na internet.<br></blockquote>
-Uri: www.site.com/user</p>
+<blockquote><p>Uniform Resource Identifier - Identificador uniforme de recursos é uma cadeia de caracteres usada para identificar ou denominar um recurso na internet.<br>
+Uri: www.site.com/user</blockquote>
+</p>
 <h2>URL - O que é?  </h2>
 <blockquote><p>Uniform Resource Locator - Localizador Padrão de Recursos é o endereço de um recurso disponível em uma rede.<br>
 Exemplo: recurso: impressora. <br>
