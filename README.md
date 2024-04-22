@@ -295,11 +295,13 @@ Entity Tag -> assegura um token de validação identificando uma versão especif
 </blockquote>
 
 <h3>Identificação x Autenticação x Autorização</h3>
+<blockquote>
 <ul>
   <li><b>Identificação:</b> Usa-se apenas um identificador, uma API Key para serem identificados.</li>
   <li><b>Autenticação:</b> Usa-se um tipo de comprovação para autenticar quem é você. Por exemplo, e-mail e senha.</li>
   <li><b>Autorização:</b> Tem o intuito de definir o que você pode fazer de acordo com suas credenciais.</li>
 </ul>
+</blockquote>
 
 <h3>Autenticação com HTTP</h3>
 <blockquote>
@@ -314,8 +316,10 @@ Entity Tag -> assegura um token de validação identificando uma versão especif
 </blockquote>
 
 <h3>Stateless Authentication</h3>
+<blockquote>
 <ul>
   <li><b>OAuth:</b> Protocolo aberto para permitir autorizações seguras em um método simples e padronizado.
   <br>Benefício do OAuth: Escalável.</li>
   <li><b>JWT:</b> É um padrão aberto para a transmissão segura entre partes como um objeto JSON e transmite essas informações de forma compacta e auto contida.</li>
 </ul>
+</blockquote>
