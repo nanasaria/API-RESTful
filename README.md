@@ -3,7 +3,7 @@
 <p>
   <blockquote> Interface de Programação de Aplicativos - É um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software. </blockquote>
 </p>
-<img src="https://hermes.dio.me/articles/cover/a30a16f5-8a78-4b6b-9b3c-a17b223c400d.png" height="350" />
+<img src="https://hermes.dio.me/articles/cover/a30a16f5-8a78-4b6b-9b3c-a17b223c400d.png" height="300" />
   <br><i>Image: https://www.dio.me/articles/o-que-e-uma-api-Y8U6UW</i>
 <br>
 <h2>RESOURCE - Recursos são elementos que podem ser manipulados através de um ID.</h2>
