@@ -288,7 +288,7 @@ Entity Tag -> assegura um token de validação identificando uma versão especif
 <br>Cookies são criados para permitir que o servidor grave e mantenha os estados (stateful), ou seja, uma requisição não depende da outra.</p>
 <img src="https://www.oficinadanet.com.br/imagens/post/24811/o_que_sao_os_cookies_do_navegador.jpg" height="350"/>
 <br><i>Image: https://www.oficinadanet.com.br/internet/24811-o-que-sao-os-cookies-do-navegador</i>
-<blockquote>
+<br><blockquote>
   O padrão de esquema de autenticação HTTP basic é através de digest (baseado em uma contrain - Stateless).
 <br><br>Quando uma aplicação web oferece ferramentas para outras aplicações, a autenticação pode ser feita através de uma API Key ou API secret token.
 <br><br>Em resumo, uma API Key é uma combinação de letras e números, como um hash e fica sendo transmitida em todas as requisições para identificar aplicação. Geralmente é combinada de email e senha. Para garantir maior segurança, é importante que o servidor tenha configurado os certificados SSL.
